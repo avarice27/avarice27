@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @avarice27
-- 👀 I’m currently learning as a FullstackDeveloper & Flutter Developer
+- 👀 I’m currently learning as a Fullstack Developer & Flutter Developer
 - 🌱 I’m currently learning React.js & Flutter
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me :
